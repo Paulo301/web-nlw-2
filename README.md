@@ -17,5 +17,7 @@ $ yarn
 #4 - Executar a aplicação em modo de desenvolvimento
 $ yarn start
 
-#5 - A aplicação será aberta na porta:3000 - acesse http://localhost:3000
+#5 - Executar os passos de 2 a 4 para a pasta server-nlw-2 em outro terminal
+
+#6 - A aplicação será aberta na porta:3000 - acesse http://localhost:3000 (o servidor será executado na porta:3333)
 ```
